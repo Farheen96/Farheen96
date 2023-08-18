@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Farheen96
-- 👀 I’m interested in learning Data Science and it's applications. Eventually work as a Data Scientist
+- 👋 Hi, I’m Farheen
+- Graduated with MSc in Data Science.
+- 👀 As a fresher in this field I’m interested in learning and implementing Data Science and its applications in the real world. Eventually, work as a Data Scientist
 - 📫 How to reach me - fars.bint.anwar.96@gmail.com
 
 <!---
